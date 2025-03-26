@@ -148,7 +148,7 @@ def make_SWB(where):
                     group_cp2 = list(chain(*[["", i] for i in group_cp2]))
                     result.extend(group_cp2)
             
-    result[-1] = result[-1][:-1]
+    result[-1] = result[-1][:-1]        
 
     f = open("result.txt", "w", encoding="UTF8")
     for i in range(len(result)):
