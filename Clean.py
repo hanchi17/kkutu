@@ -5,12 +5,12 @@ for i in eo_sub:
         continue
     
     f = open(f"./어인정/{i}.txt", "r", encoding="UTF8")
-    words = f.readlines()
+    words = [i.strip("\n") for i in f.readlines()]
     f.close()
 
     words = sorted(set(words))
 
     f = open(f"./어인정/{i}.txt", "w", encoding="UTF8")
     for k in words:
-        f.write(k)
+        f.write(i + "\n")
     f.close()
