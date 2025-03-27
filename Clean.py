@@ -12,5 +12,5 @@ for i in eo_sub:
 
     f = open(f"./어인정/{i}.txt", "w", encoding="UTF8")
     for k in words:
-        f.write(i + "\n")
+        f.write(k + "\n")
     f.close()
