@@ -1,4 +1,5 @@
 import os
+import json
 
 no_sub = os.listdir("./노인정/")
 eo_sub = os.listdir("./어인정/")
@@ -18,6 +19,10 @@ for i in range(no_len):
     f.close()
     no_list.append(lines)
 
+with open("No_Need.json", "r", encoding="UTF8") as f:
+    data = set(json.load(f))
+no_list_plus = [[k for k in i if k not in data] for i in no_list]
+
 eo_list = []
 for i in range(eo_len):
     f = open(f"./어인정/{eo_sub[i]}.txt", "r", encoding="UTF8")
@@ -27,3 +32,4 @@ for i in range(eo_len):
 
 all_sub = no_sub + eo_sub
 all_list = no_list + eo_list
+all_list_plus = no_list_plus + eo_list
