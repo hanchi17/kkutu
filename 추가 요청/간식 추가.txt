@@ -1,7 +1,25 @@
 멘토스2인1복숭아맛앤드소다향
 https://www.ssg.com/item/itemView.ssg?itemId=1000635612203&siteNo=7024&salestrNo=6005
 
+풀무원식물성지구식단납작두유면
+https://shop.pulmuone.co.kr/shop/goodsView?goods=42051&PageCd=P_PC_Cate&ContentCd=%EB%A9%B4%EC%9A%94%EB%A6%AC&CategoryId=5461
+
+풀무원지구식단두유면잔치국수
+https://shop.pulmuone.co.kr/shop/goodsView?goods=42102&PageCd=P_PC_Cate&ContentCd=%EB%A9%B4%EC%9A%94%EB%A6%AC&CategoryId=5461
+
+풀무원지구식단얇은두유면
+https://shop.pulmuone.co.kr/shop/goodsView?goods=42105&PageCd=P_PC_Cate&ContentCd=%EB%A9%B4%EC%9A%94%EB%A6%AC&CategoryId=5461
+
+
 
 한살림쏙쏙젤리감귤 -> 한살림꼬마와땅쏙쏙젤리감귤
 (다른건 다 꼬마와땅 추가함)
 https://shop.hansalim.or.kr/shopping/prod/prodView.do?GDS_CD=110105011
+
+풀무원녹즙채소습관돌미나리민들레 -> 풀무원녹즙채소습관돌미나리앤드민들레
+(앤드 추가 안함)
+https://shop.pulmuone.co.kr/shop/goodsView?goods=3938&PageCd=P_PC_Cate&ContentCd=%EC%9D%BC%EC%9D%BC%EB%B0%B0%EB%8B%AC%20%EB%85%B9%EC%A6%99&CategoryId=5467
+
+풀무원식물성지구식단두유면비빔국수 -> 풀무원지구식단두유면비빔국수
+(식물성 없음)
+https://shop.pulmuone.co.kr/shop/goodsView?goods=42104&PageCd=P_PC_Cate&ContentCd=%EB%A9%B4%EC%9A%94%EB%A6%AC&CategoryId=5461
