@@ -1,4 +1,5 @@
 from itertools import groupby, chain
+import json
 
 def find_front(where, how):
     word = input("\n시작 단어 >> ")
@@ -152,3 +153,11 @@ def make_SWB(where):
     for i in range(len(result)):
         f.write(result[i] + "\n")
     f.close()
+
+
+def extraction(word):
+    with open("Alphabet.json", "r", encoding="UTF8") as f:
+        data = json.load(f)
+
+    temp = ord(word) - 44032
+    return data["initail"][temp // 588], data["medial"][(temp % 588) // 28]
