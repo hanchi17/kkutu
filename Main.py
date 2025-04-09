@@ -1,4 +1,4 @@
-from DB import all_sub, all_list
+from DB import all_sub, all_list, all_list_plus
 from Function import find_front, find_back, find_inclusion, find_all, find_long, find_mission
 
 
@@ -11,9 +11,9 @@ if subject == "4":
         detail = input("다시 입력 >> ")
 
 if subject == "1":
-    where = all_list
+    where = all_list_plus
 elif subject == "2":
-    where = all_list[:54]
+    where = all_list_plus[:54]
 elif subject == "3":
     where = all_list[54:]
 else:
