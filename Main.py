@@ -17,7 +17,7 @@ elif subject == "2":
 elif subject == "3":
     where = all_list[54:]
 else:
-    where = [all_list[all_sub.index(detail)]]
+    where = all_list[all_sub.index(detail)]
 
 
 what = input("\n<목적>\n| 1. ~로 시작하는 단어 | 2. ~로 끝나는 단어 | 3. ~를 포함하는 단어 |\

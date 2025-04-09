@@ -4,7 +4,10 @@ import json
 def find_front(where, how):
     word = input("\n시작 단어 >> ")
     
-    temp = {k for i in where for k in i if k.startswith(word)}
+    if any(isinstance(i, list) for i in where):
+        temp = {k for i in where for k in i if k.startswith(word)}
+    else:
+        temp = {i for i in where if i.startswith(word)}
 
     result = sorted(temp)
     if how == "2":
@@ -18,8 +21,11 @@ def find_front(where, how):
 
 def find_back(where, how):
     word = input("\n끝 단어 >> ")
-    
-    temp = {k for i in where for k in i if k.endswith(word)}
+
+    if any(isinstance(i, list) for i in where):
+        temp = {k for i in where for k in i if k.endswith(word)}
+    else:
+        temp = {i for i in where if i.endswith(word)}
 
     result = sorted(temp)
     if how == "2":
@@ -34,7 +40,10 @@ def find_back(where, how):
 def find_inclusion(where, how):
     word = input("\n포함 단어 >> ")
     
-    temp = {k for i in where for k in i if word in k}
+    if any(isinstance(i, list) for i in where):
+        temp = {k for i in where for k in i if word in k}
+    else:
+        temp = {i for i in where if word in i}
 
     result = sorted(temp)
     if how == "2":
@@ -47,7 +56,10 @@ def find_inclusion(where, how):
 
 
 def find_all(where, how):
-    temp = {k for i in where for k in i}
+    if any(isinstance(i, list) for i in where):
+        temp = {k for i in where for k in i}
+    else:
+        temp = {i for i in where}
 
     result = sorted(temp)
     if how == "2":
@@ -60,7 +72,10 @@ def find_all(where, how):
 
 
 def find_long(where):
-    temp = {k for i in where for k in i}
+    if any(isinstance(i, list) for i in where):
+        temp = {k for i in where for k in i}
+    else:
+        temp = {i for i in where}
     temp = sorted(temp, key=lambda x: (x[0], -len(x)))
 
     result = []
@@ -78,13 +93,16 @@ def find_long(where):
 
 
 def find_mission(where):
-    word = input("\n시작 단어 >> ")
+    if any(isinstance(i, list) for i in where):
+        word = input("\n시작 단어 >> ")
 
-    temp = {k for i in where for k in i if k.startswith(word)}
-    temp = sorted(temp, key=lambda x: (x[0], -len(x)))
+        temp = {k for i in where for k in i if k.startswith(word)}
+        temp = sorted(temp, key=lambda x: (x[0], -len(x)))
+    else:
+        word = ""
+        temp = sorted(where, key=lambda x: (-len(x), x[0]))
 
     result = []
-
     for i in "가나다라마바사아자차카타파하":
         dic = {}
         for k in temp:
