@@ -183,12 +183,12 @@ def extraction(word):
 
 def duum(word, ini, med):
     if (ini == "ㄴ") and (med in {"ㅕ", "ㅛ", "ㅠ", "ㅣ"}):
-        return word, chr(ord(word) + 5292)
+        return chr(ord(word) + 5292)
     elif (ini == "ㄹ"):
         if med in {"ㅑ", "ㅕ", "ㅖ", "ㅛ", "ㅠ", "ㅣ"}:
-            return word, chr(ord(word) + 3528)
+            return chr(ord(word) + 3528)
         elif med in {"ㅏ", "ㅐ", "ㅗ", "ㅚ", "ㅜ", "ㅡ"}:
-            return word, chr(ord(word) - 1764)
+            return chr(ord(word) - 1764)
     else:
         return(word)
 
