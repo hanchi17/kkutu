@@ -176,6 +176,33 @@ def make_SWB(where):
 def extraction(word):
     with open("Alphabet.json", "r", encoding="UTF8") as f:
         data = json.load(f)
-
+    
     temp = ord(word) - 44032
-    return data["initail"][temp // 588], data["medial"][(temp % 588) // 28]
+    return word, data["initial"][temp // 588], data["medial"][(temp % 588) // 28]
+
+
+def duum(word, ini, med):
+    if (ini == "ㄴ") and (med in {"ㅕ", "ㅛ", "ㅠ", "ㅣ"}):
+        return word, chr(ord(word) + 5292)
+    elif (ini == "ㄹ"):
+        if med in {"ㅑ", "ㅕ", "ㅖ", "ㅛ", "ㅠ", "ㅣ"}:
+            return word, chr(ord(word) + 3528)
+        elif med in {"ㅏ", "ㅐ", "ㅗ", "ㅚ", "ㅜ", "ㅡ"}:
+            return word, chr(ord(word) - 1764)
+    else:
+        return(word)
+
+
+def kill_word(where):
+    temp = {k for i in where for k in i if (len(k) != 1) and (k != "(경기도/동두천시 부터)")}
+
+    first_word = {i[0] for i in temp}
+    last_word = {i[-1] for i in temp}
+
+    result = []
+    for i in last_word:
+        if i not in first_word:
+            if duum(*extraction(i)) not in first_word:
+                result.append(i)
+    
+    print(sorted(result))
