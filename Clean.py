@@ -1,9 +1,6 @@
 from DB import eo_sub
 
 for i in eo_sub:
-    if i == "하스스톤":
-        continue
-    
     f = open(f"./어인정/{i}.txt", "r", encoding="UTF8")
     words = [i.strip("\n") for i in f.readlines()]
     f.close()
