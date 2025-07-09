@@ -1,13 +1,11 @@
 from DB import eo_sub
 
 for i in eo_sub:
-    f = open(f"./어인정/{i}.txt", "r", encoding="UTF8")
-    words = [i.strip("\n") for i in f.readlines()]
-    f.close()
+    with open(f"./어인정/{i}.txt", "r", encoding="UTF8") as f:
+        words = [i.strip("\n") for i in f.readlines()]
 
     words = sorted(set(words))
 
-    f = open(f"./어인정/{i}.txt", "w", encoding="UTF8")
-    for k in words:
-        f.write(k + "\n")
-    f.close()
+    with open(f"./어인정/{i}.txt", "w", encoding="UTF8") as f:
+        for k in words:
+            f.write(k + "\n")
