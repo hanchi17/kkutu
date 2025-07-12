@@ -14,20 +14,18 @@ for i in range(eo_len):
 
 no_list = []
 for i in range(no_len):
-    f = open(f"./노인정/{no_sub[i]}.txt", "r", encoding="UTF8")
-    lines = [line.strip("\n") for line in f.readlines()]
-    f.close()
+    with open(f"./노인정/{no_sub[i]}.txt", "r", encoding="UTF8") as f1:
+        lines = [line.strip("\n") for line in f1.readlines()]
     no_list.append(lines)
 
-with open("No_Need.json", "r", encoding="UTF8") as f:
-    data = set(json.load(f))
+with open("No_Need.json", "r", encoding="UTF8") as f3:
+    data = set(json.load(f3))
 no_list_plus = [[k for k in i if k not in data] for i in no_list]
 
 eo_list = []
 for i in range(eo_len):
-    f = open(f"./어인정/{eo_sub[i]}.txt", "r", encoding="UTF8")
-    lines = [line.strip("\n") for line in f.readlines()]
-    f.close()
+    with open(f"./어인정/{eo_sub[i]}.txt", "r", encoding="UTF8") as f2:
+        lines = [line.strip("\n") for line in f2.readlines()]
     eo_list.append(lines)
 
 all_sub = no_sub + eo_sub
