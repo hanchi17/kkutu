@@ -1,1 +1,499 @@
 3
+3m
+abbott
+abc
+best buy
+bhp
+caixabank
+canada life
+canon
+capgemini
+capital one
+carrefour
+carrier
+cartier
+caterpillar
+cathay life insurance
+catl
+cbs
+cccc
+ceec
+cencora
+chanel
+charles schwab
+chase
+chevrolet
+chevron
+chick fil a
+china citic bank
+china construction bank
+china everbright bank
+china life
+china merchants bank
+china minsheng bank
+china mobile
+china post
+china resources land
+china southern power grid
+china telecom
+chubb
+cibc
+cigna
+circle k
+cisco
+citi
+cj group
+cnbm
+cnnc
+cnooc
+cnrl
+coca cola
+cognizant
+coles
+commonwealth bank
+conad
+conocophillips
+continental group
+corona extra
+costco
+coupang
+cpic
+crcc
+crecg
+credit agricole
+credit mutuel
+cscec
+cummins
+cvs
+dai ichi life
+daikin
+daiwa house
+danone
+dbs
+decathlon
+dell technologies
+deloitte
+delta
+denso
+deutsche bank
+dhl
+dior
+discover
+disney
+dollar general
+dollar tree
+dominos pizza
+doritos
+dove
+dr pepper
+draftkings
+e and
+edeka
+edf
+eleclerc
+electronic arts
+elevance health
+emirates
+enbw
+enel
+eneos
+energy transfer
+engie
+eni
+enterprise
+eon
+equinor
+erste
+espn
+estee lauder
+evernorth
+exxonmobil
+ey
+facebook
+fanduel
+fedex
+ferrari
+fidelity
+fis
+ford
+fox
+fresenius
+garnier
+gatorade
+geico
+general dynamics
+general electric
+generali group
+gillette
+glencore
+gmc
+goldman sachs
+google
+gree
+gs group
+gucci
+guerlain
+h and m
+haier
+hang seng bank
+hca
+hcltech
+hdfc group
+heineken
+hennessy
+hermes
+hilton hotels and resorts
+hitachi
+home depot
+honda
+honeywell
+hp
+hpe
+hsbc
+huawei
+humana
+hyatt
+hyundai group
+iberdrola
+ibm group
+icbc
+icici group
+ikea
+indian oil
+industrial bank
+infosys
+ing
+instagram
+intel
+intesa sanpaolo
+itau
+japan post holdings
+jd
+jeep
+jio group
+john deere
+johnson and johnson
+jp morgan
+jr
+kaufland
+kb financial group
+kbc
+kelloggs
+kfc
+kia
+kpmg
+kroger
+l and m
+lancome
+larsen and toubro group
+lays
+lego
+lennar
+lenovo
+leroy merlin
+lexus
+lg group
+lic
+lidl
+lilly
+lindt
+linkedin
+lloyds bank
+lockheed martin
+loreal
+louis vuitton
+lowes
+lseg
+lululemon
+luzhou laojiao
+mahindra group
+manulife
+marathon petroleum
+marina bay sands
+marlboro
+marubeni
+mastercard
+maybank
+mcdonalds
+mckesson
+mckinsey and co
+mclane
+mediatek
+medtronic
+meituan
+mercadona
+mercedes benz
+merck and co
+merrill
+metlife
+michelin
+micron
+microsoft
+midea
+mitsubishi group
+mitsui group
+mizuho financial group
+modelo especial
+monster
+morgan stanley
+moutai
+movistar
+msci
+mufg
+munich re
+nab
+natwest
+nbc
+nestle
+netease
+netflix
+nike
+nintendo
+nissan
+nissay nippon life insurance
+nivea
+nokia
+nongfu spring
+nordea
+northrop grumman
+novo nordisk
+ntt group
+nvidia
+o2
+ocbc bank
+optum
+oracle
+orange
+oreilly auto parts
+pall mall
+pampers
+panasonic
+pantene
+paypal
+pepsi
+petrochina
+petronas
+pfizer
+philips
+phillips 66
+picc
+pinduoduo
+ping an
+playstation
+pnc
+poly development
+porsche
+postal savings bank
+poste italiane
+power china
+prada
+progressive
+prudential
+ptt
+publix
+purina
+pwc
+qnb
+qualcomm
+quickbooks
+rabobank
+rakuten
+ray ban
+rbc
+red bull
+reliance group
+renault
+rewe
+roche
+rogers
+rolex
+s and p global
+sabic
+safran
+sainsburys
+saint gobain
+salesforce
+sams club
+samsung group
+santander
+sap
+sbi group
+schneider electric
+scotiabank
+sekisui house
+sephora
+servicenow
+sf express
+shanghai pudong development bank
+shell
+sherwin williams
+shinhan financial group
+siemens group
+sinopec group
+sk group
+sky
+slb
+snb
+societe generale
+softbank
+sony
+southwest airlines
+spar
+spectrum
+spotify
+standard chartered
+starbucks
+state grid corporation of china
+stc
+stryker
+subaru
+subway
+sumitomo group
+suzuki
+swedbank
+swiss re
+swisscom
+synchrony
+sysco
+t
+taco bell
+taobao
+target
+tata group
+td
+telstra
+telus
+tencent
+tesco
+tesla
+texas instruments
+the hartford
+tide
+tiffany and co
+tiktok douyin
+tim
+tim hortons
+tj maxx
+tmall
+tokio marine
+totalenergies
+toyota
+travelers
+trip
+truist
+tsmc
+tui
+tyson
+uber
+ubs
+uni president
+union pacific
+uniqlo
+united airlines
+unitedhealthcare
+universal
+uob
+ups
+us bank
+usps
+valero
+vanguard
+vanke
+veolia
+verizon
+viettel
+vinci
+visa
+vmware
+vodafone
+volkswagen
+volvo
+walgreens
+walmart
+warner bros
+wechat
+wells fargo
+wendys
+wipro group
+woolworths
+wuliangye
+xbox
+xfinity
+xiaomi
+xinghuacun fen wine
+yahoo group
+yanghe
+yili
+youtube
+zara
+zurich
+bloomberg
+bmo
+bmw
+bri
+bridgestone
+broadcom
+brookfield
+bud light
+budweiser
+byd
+bnp paribas
+bnsf
+bny
+boeing
+booking
+bosch
+bp
+bouygues
+accenture
+activision blizzard
+adidas
+applied materials
+bdo global
+bell
+aramco
+audi
+basf
+bayer
+bbc
+bbva
+bcg
+autozone
+aviva
+axa
+bae systems
+baidu
+bajaj group
+banco do brasil
+bank mandiri
+bank of america
+bank of china
+bank of communications
+barclays
+barilla
+armani
+asda
+asml
+at and t
+au
+adnoc
+adobe
+aetna
+agricultural bank of china
+aia
+aig
+airbnb
+american airlines
+american express
+anz
+apple
+airbus
+airtel
+al rajhi bank
+aldi sud
+allianz group
+allstate
+amazon
+amd
+adp
+7 eleven
