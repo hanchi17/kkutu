@@ -127,9 +127,9 @@ def find_mission(where):
 def make_SWB(where):
     if any(isinstance(i, list) for i in where):
         temp = {k for i in where for k in i}
-        temp = sorted(temp, key=lambda x: (x[0], -len(x)))
+        temp = sorted(temp, key=lambda x: (x[0], -len(x), x))
     else:
-        temp = sorted(where, key=lambda x: (x[0], -len(x)))
+        temp = sorted(where, key=lambda x: (x[0], -len(x), x))
 
     result = []
     for key, group in groupby(temp, key=lambda x: x[0]):
