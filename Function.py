@@ -194,7 +194,7 @@ def duum(word, ini, med):
 
 
 def kill_word(where):
-    temp = {k for i in where for k in i if (len(k) != 1) and (k != "(경기도/동두천시 부터)")}
+    temp = {k for i in where for k in i if (len(k) != 1) and (k!="(경기도/동두천시 부터)")}
 
     first_word = {i[0] for i in temp}
     last_word = {i[-1] for i in temp}
