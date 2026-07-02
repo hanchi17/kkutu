@@ -1,1 +1,361 @@
 vanguard
+cloud drake
+hextech drake
+infernal drake
+mountain drake
+ocean drake
+baron nashor
+elder dragon
+rift herald
+voidgrub
+ancient krug
+blue sentinel
+crimson raptor
+greater murk wolf
+gromp
+red brambleback
+rift scuttler
+krug
+mini krug
+murk wolf
+raptor
+voidmite
+scryers bloom
+mutated scryers bloom
+mutated honeyfruit
+honeyfruit
+mutated blast cone
+blast cone
+koeshins crossing
+aram mayhem
+aram
+arena
+teamfight tactics
+firecracker set
+stackosaurus rex
+eureka
+goldrend
+king me
+mad scientist
+master of duality
+ominous pact
+omni soul
+ultimate awakening
+ultimate revolution
+upgrade mikaels blessing
+windspeakers blessing
+blade waltz
+bounce of the poro king
+cant touch this
+devil on your shoulder
+droppybara
+earthwake
+empowered by the faithful
+empyrean promise
+fey magic
+glass cannon
+hand of baron
+heads up cupcake
+im a baby kitty where is mama
+laser heal
+prom queen
+protein shake
+quantum computing
+quest urfs champion
+stuck in here with me
+phenomenal evil
+poro blaster
+quest steel your heart
+red envelopes
+scopier weapons
+shrink engine
+stats on stats
+tank engine
+thread the needle
+transmute prismatic
+upgrade hubris
+vampirism
+all for you
+apex inventor
+tank it or leave it
+tormentor
+ultimate unstoppable
+upgrade immolate
+wind beneath blade
+compulsion for wealth
+abstain from wealth
+craving for power
+craving for risk
+craving for wealth
+center of the universe
+doomsayer
+dreadbringer
+gamba anvil
+bread sandwich
+orbital laser
+raid boss
+spellwake
+spirit link
+wisdom of ages
+accelerating sorcery
+chain lightning
+laser eyes
+quest rite of the forge god
+magical girl
+righteous fury
+summoners roulette
+ultimate roulette
+chauffeur
+prismatic egg
+augment 405
+hive mind
+deathtouch
+dark blessing
+summoner revolution
+symbiotic mutation
+willing sacrifice
+defensive maneuvers
+extendoarm
+hat trick
+light warden
+quest three sacred treasures
+undying guard
+vengeance
+well be right back
+and my axe
+blood brother
+die another day
+oathsworn
+quest angel of retribution
+quest mad hatter
+restart
+trickster demon
+unshackled
+vanish
+sacrifice for gold
+multitool
+augmented power
+contract killer
+desecrator
+grevious venom
+serve beyond death
+dont chase
+juice box
+numb to pain
+panic room
+fire sale
+frozen foundations
+hold very still
+now you see me
+warmup routine
+404 augment not found
+shardholder value shard
+lethality shard
+health shard
+move speed shard
+tenacity shard
+armor penetration shard
+omnivamp shard
+critical damage shard
+fortune shard
+abillity power shard
+health and size shard
+magic penetration shard
+heal and shield power shard
+desert oasis
+ancestral woods
+frostbite thicket
+koi pond
+magma chamber
+reckoner arena
+power flower
+attack damage shard
+two random shards
+might shard
+attack speed shard
+critical shard
+magic resist shard
+unbreakable shard
+abillity haste shard
+swiftness shard
+armor shard
+parasitic mutation
+calculated risk
+castle
+clothesline
+dematerialize
+despoil
+fallen aegis
+fruits of your labor
+silver spoon
+slime time
+trailblazer
+bravest of the brave
+cannon fodder
+energetic
+aim for the head
+banner of command
+hybrid
+bodyguard
+combo master
+nesting doll
+parasitic relationship
+mighty shield
+poltergeist
+purist caster
+reenergize
+repulsor
+spin to win
+veil of warding
+sacrifice for silver
+compulsion for power
+compulsion for risk
+gain a prismatic stat anvil
+gain an augment slot
+gain stat anvil
+level augments
+replace augment
+abstain from risk
+crack open that egg
+crit n cast
+dont blink
+flashbang
+juiced
+escapade
+escape plan
+firstaid kit
+frost wraith
+guilty pleasure
+leg day
+ocean soul
+self destruct
+shadow runner
+swift and safe
+the brutalizer
+upgrade thornmail
+upgrade zhonyas
+adamant
+hextech soul
+homeguard
+kill secured
+mountain soul
+sonic boom
+deft
+goredrink
+dive bomber
+erosion
+slap around
+transmute gold
+typhoon
+weighted popoffs
+witchful thinking
+firefox
+upgrade collector
+zealot
+blunt force
+buff buddies
+hat on a hat
+heavy hitter
+ice cold
+infernal soul
+light em up
+mind to matter
+scoped weapons
+speed demon
+stats
+twin fire
+bread and jam
+dawnbringers resolve
+holy fire
+restless restoration
+shrink ray
+slow and steady
+upgrade sheen
+with haste
+flashy
+minionmancer
+searing dawn
+adapt
+ethereal weapon
+triggered inferno
+growth spurt
+big brain
+bread and butter
+cheating
+demons dance
+divine intervention
+final city transit
+impassable
+its critical
+nightstalking
+ok boomerang
+outlaws grit
+pinball
+snowball roulette
+sonata
+bread and cheese
+critical healing
+donation
+rabble rousing
+recursion
+skilled sniper
+snowball upgrade
+spiritual purification
+twice thrice
+upgrade infinity edge
+vulnerability
+double tap
+firebrand
+keystone conjurer
+marksmage
+overflow
+trueshot prodigy
+upgrade sword of blossoming dawn
+celestial body
+critical missile
+critical rhythm
+executioner
+from beginning to end
+grandmas chili oil
+its killing time
+lightning strikes
+magic missile
+holy snowball
+quest icathias fall
+gash
+slow cooker
+stats on stats on stats
+symphony of war
+back to basics
+cerberus
+circle of death
+courage of the colossus
+dashing
+goliath
+infernal conduit
+tap dancer
+clown college
+dropkick
+dual wield
+fan the hammer
+quest wooglets witchcap
+scopiest weapons
+transmute chaos
+chaaaaaaaarge
+feel the burn
+cruelty
+draw your sword
+final form
+infinite recursion
+mystic punch
+pandoras box
+tockers trials
+tutorial
+practice tool
+fully automated
+dive bomb set
+wee woo wee woo
+archmage
+snowday
+high roller
+chemtech drake
