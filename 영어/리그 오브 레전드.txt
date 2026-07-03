@@ -1,361 +1,2318 @@
+nightbringer evelynn
+demonflare
+mimic ethereal chains
+mimic distortion
+mimic sigil of malice
+mercy
+cyber pop zoe
+chronoshift
+change of plan
+ch 3x lightning grenade
+dawnbringer janna
+kibble head kled
+lollipoppy
+victorious morgana
+tundra hunter warwick
+singularity
+battlecast alpha skarner
+augment perfect storm
+augment aftershock
+augment maganetize
+augment turbocharge
+prestige brave phoenix xayah
+ssg xayah
+life form disintegration ray
+phenomenal evil power
+ssw twitch
+destiny
+highland tryndamere
+lil slugger trundle
+rain shepherd tristana
+deathly leap
+ssw thresh
+ssw talon
+noxian diplomacy
+ssg taliyah
+abscond
+upheaval
+death surge
+ssw singed
+dumpling darlings seraphine
+encore
+darkrider sejuani
+ssw rengar
+night hunter rengar
+ssg rakan
+league of legends
+keepers verdict
+prestige ascended pantheon
+living forge
+tough it out
+absolute zero
+victorious master yi
+meditate
+three honors malzahar
+prestige pulsefire lucian
+iceborn subjugation
+barbecue leona
+knockout lee sin
+lion dance kogmaw
+pocket pistol
+bear trap on a rope
+evolve adaptive cloaking
+evolve wings
+evolve spike racks
+evolve reaper claws
+super kennen
+divine judgment
+karthus lightsbane
+evolve supercharge
+evolve void seeker
+evolve icathian rain
+supercharge
+jayce brightammer
+angler jax
+ssg jarvan iv
+dragonslayer jarvan iv
+hextech rocket swarm
+h 28q apex turret
+hextech affinity
+rain shepherd gwen
+collateral damage
+ssg gnar
+powder keg
+ssg ezreal
+last caress
+demon shade
+pool party mundo
+mr mundoverse
+victorious draven
+toy terror chogath
+the hextech ultimatum
+victorious braum
+cryocore brand
+piltover customs blitzcrank
+above and below
+snow day bard
+shifting sands
+marauder ashe
+amethyst ashe
+queen ashe
+woad ashe
+freljord ashe
+regifred amumu
+emumu
+cactus squink
+cosmic squink
+dead mans plate
+dreadnova squink
+edge lord squink
+fruitytooty squink
+galactic justice squink
+high noon squink
+ink squink
+pandemonium annie
+pandemonium kindred
+longhorn alistar
+crime city braum
+demoncursed vayne
+prestige pandemonium shaco
+kda all out squink
+kda popstars squink
+kernel squink
+mech pilot squink
+odyssey squink
+order squink
+outlaw squink
+space groove squink
+spellslingers shoes
+sugarcone squink
+takoyaki squink
+zero g siege minion
+zaunite duckbill
+zaun city rooftop
+zap bolt
+yuumi roomie zoomieland
+yun tal wildarrows
+yuletide paddlemar
+yuletide bellswayer
+your ride is here
+you have my bow
+yone cosplay poro
+year of the tiger protector
+yasuos share the spotlight
+yasuos judgment
+yasuos golden hex
+yasuos boon
+yasuos bladework
+yasuo unbound
+yasuo cosplay pengu
+woven magic
+worth the wait
+worlds 2025 blepup
+world atlas
+wordless promise
+wooly weird woolibell
+woolibell
+wooglets witchcap
+wise spending
+wise old dango
+winters course
+winters claw arena
+winters approach
+winterblessed silkee
+wings of fury
+win out
+willowbark furyhorn
+willowbark abyssia
+whispers of cave
+whispering circlet
+whisker
+whickers mewtant lab
+we stick together
+way to immortality
+watch out eep
+warwick unbound
+warlords honor
+wand overflow
+wait a meowment
+waffle dowsie
+voyager emblem
+voyager
+voltaic cyclosword
+voidmarked furyhorn
+void spikes
+void siege minion
+void immolation
+void gauntlet
+void gate
+vis pummel pit
+victorious tocker
+victorious silverwing
+victorious raptors
+victorious protector
+victorious piximander
+victorious paddlemar
+victorious noctero
+victorious nixie
+victorious melisma
+victorious hauntling
+victorious furyhorn
+victorious flutterbug
+victorious duckbill
+victorious dowsie
+victorious craggle
+victorious bellswayer
+verdant nimblefoot
+verdant fuwa
+verdant arena
+vayne unbound
+varuss obsession
+varuss boon
+vanguard emblem
 vanguard
-cloud drake
-hextech drake
-infernal drake
-mountain drake
-ocean drake
-baron nashor
-elder dragon
-rift herald
-voidgrub
-ancient krug
-blue sentinel
-crimson raptor
-greater murk wolf
-gromp
-red brambleback
-rift scuttler
-krug
-mini krug
-murk wolf
-raptor
-voidmite
-scryers bloom
-mutated scryers bloom
-mutated honeyfruit
-honeyfruit
-mutated blast cone
-blast cone
-koeshins crossing
-aram mayhem
-aram
-arena
-teamfight tactics
-firecracker set
-stackosaurus rex
-eureka
-goldrend
-king me
-mad scientist
-master of duality
-ominous pact
-omni soul
-ultimate awakening
-ultimate revolution
-upgrade mikaels blessing
-windspeakers blessing
-blade waltz
-bounce of the poro king
-cant touch this
-devil on your shoulder
-droppybara
-earthwake
-empowered by the faithful
-empyrean promise
-fey magic
+vampiric vitality
+vampire nixie
+vampire lumie
+valiant poro
+vacation baron
+urfs grab bag
+urfs gambit
+urf dowsie
+urf
+upward mobility
+upgraded zhonyas hourglass
+upgraded wooglets witchcap
+upgraded trinity force
+upgraded thornmail
+upgraded sword of blossoming dawn
+upgraded sunfire aegis
+upgraded sheen
+upgraded seekers armguard
+upgraded infinity edge
+upgraded iceborn gauntlet
+upgraded bramble vest
+upgraded bamis cinder
+untamed hushtail
+unidentified flying friends
+unending despair
+umbras retreat
+umbra
+ultra threat whisker
+ultra rapid fire
+ultra rainbow firearms
+two tanky
+two much value
+twin spirit hundun
+twin guardians
+twilights edge
+twilight star hundun
+turn the tables
+tunneler
+tundra furyhorn
+true ice flutterbug
+true ice featherknight
+true ice craggle
+true damage sound studio
+tropical silverwing
+triumphant tocker
+triumphant protector
+triumphant nixie
+triumphant hauntling
+triumphant flutterbug
+triumphant craggle
+triumphant bellswayer
+triumph
+tristana cosplay pengu
+triple tonic
+trifecta
+treasure hunter
+treasure hunt
+transcendence
+trade sector
+toxic molediver
+toxic hauntling
+toxic cloud
+tower defense runespirit
+tournament of souls arena
+touch of the void
+toucan raptors
+tons of stats
+tocker
+tiny titans
+tiny but deadly
+tiniest titan
+timebreaker emblem
+timebreaker
+tiger milk bobabear
+tiger hamlet
+tidepool paddlemar
+tidal leaves
+thunderstorm knife pup
+thunderstorm knife hound
+thunderstorm bellswayer
+thunderbeast umbra
+threshs lantern
+threshs boon
+thresh unbound
+threat level tentacle
+threat level ok
+threat level nom
+the way of the ko
+the veiled village
+the trait tree
+the toxitorium
+the tower
+the monster inside
+the indomitable
+the golden spatula
+the golden egg
+the golden dragon
+the brutalizer
+the big bang
+terra inktales paddlemar
+terra inktales featherknight
+terra inktales ao shin
+terminus
+termeepnal velocity
+tendril slam
+teleport
+tearoom of tranquility
+teapot dango
+teaming up
+team building
+tangerine burst
+talisman of ascension
+tacticians shield
+tacticians kitchen
+tacticians crown
+tacticians cape
+t1s unstoppable legacy
+t1 pyke unbound
+t1 fate sealed
+t1 death from below
+t1 command shockwave
+swordsmith
+sword overflow
+sword of blossoming dawn
+swole scuttle
+swiftmarch
+swift blue dango
+sweetheart lumie
+sweet treats
+sweet treat kapi
+sweet petal dowsie
+sweet dreams pufferfin
+survivor
+supreme emperor shisa
+supernova arena
+super squad whisker
+super squad grizzle
+super squad baron
+super shork
+super scuttle
+super noctero
+super mega firecracker
+super mega death rock
+super galaxy knife pup
+sunkissed umbra
+sunfire cape
+sunfire board
+sundrop shisa
+sundered sky
+sunborn protector
+sun kissed choncc
+summoners arena
+summer splash ao shin
+summer festival blubble
+sugarcone poro
+sugarcone poptail
+sugarcone poggles
+sugarcone lightcharger
+sugarcone khatsai
+sugarcone gloop
+sugarcone furyhorn
+sugarcone duckbill
+sugarcone burno
+sugar rush siege minion
+sugar rush chip
+sugar rush bellswayer
+sugar crash dango
+subscription service
+strikers flail
+stormsurge
+stormraiders surge
+storm rift arena
+stitched whisker
+stellar combo
+stellacorn lightcharger
+steel tempest
+steel sigil
+steamrolled
+stealth ward
+steadfast heart
+statikk shiv
+stat bonus
+starmaw
+starlight hundun
+stargazer emblem
+stargazer
+stardust hushtail
+starcrossed hundun
+starcrossed furyhorn
+starchaser furyhorn
+star piercer
+star nemesis whisker
+star nemesis shork
+star nemesis scuttle
+star nemesis noctero
+star nemesis kiko
+star nemesis hushtail
+star nemesis hundun
+star nemesis grizzle
+star nemesis furyhorn
+star nemesis baron
+star guardian whisker
+star guardian unleashed power
+star guardian tocker
+star guardian snek
+star guardian silverwing
+star guardian silkee
+star guardian shork
+star guardian scuttle
+star guardian perfect execution
+star guardian noctero
+star guardian grizzle
+star guardian glitterlance
+star guardian duckbill
+star guardian baron
+star guardian astrovix
+star forger ao shin
+star forged
+star dust astronyan
+stamped out
+staffsmith
+staff drop
+squink
+spring into victory
+spreading roots
+spotted piximander
+splash town choncc
+splash party arena
+splash party
+spitfire
+spirit springs kapi
+spirit springs
+spirit of redemption
+spirit blossom shiro and kuro
+spirit blossom kiko
+spirit blossom kanmei lightcharger
+spirit blossom kanmei dowsie
+spirit blossom fate sealed
+spirit blossom command shockwave
+spirit blossom akana lightcharger
+spirit blossom akana dowsie
+speedy double kill
+sparring gloves
+sparkle sun silkee
+spaceship arena
+space groove shisa
+space groove rocket grab
+space groove pufflet
+space groove pufferfin
+space groove lumie
+space groove emblem
+space groove burno
+space groove bun bun
+space groove blubble
+space groove
+soul static
+soul siphon
+soul power
+soul fighter whisker
+soul fighter sprite
+soul fighter powder monkey
+soul fighter knife pup
+soul fighter knife hound
+soul fighter duckbill
+soul awakening
+sorcery
+sorakas miracle
+sorakas boon
+solstice sleigh
+soloist qiqi
+soloist ossia
+solo plate
+solo leveling
+softnosed molediver
+sodapop fenroar
+soda blubble
+socialite nixie
+snow day powder monkey
+snow cherry silverwing
+snipers focus
+sniper emblem
+sniper
+snek
+smiteback
+smite
+small grab bag
+slow burn umbra
+slightly magic roll
+slice of life
+slammin
+skyline of dreams
+skyhigh station
+skygem protector
+skydance molediver
+skyborn fenroar
+sky lanterns summit
+skipping stone
+size matters
+sixth sense
+sinking shadows
+silver spoon
+silkee
+sil harbinger ao shin
+side effects
+shuriman raptors
+shuriman overlook
+shurima knife hound
+shurima fenroar
+shrine of the first lands
+shrimpy gloop
+shork
+shopping spree
+shisas study
+shisa
+shiro and kuro
+ship of shadows
+ship of innovation
+ship of discovery
+shimmerstone fields
+shimmerscale essence
+shimmering rio
+shimmering piximander
+shimmer blubble
+shieldmaiden
+shield of molten stone
+shiba knife hound
+shepherd emblem
+shepherd
+shattered heart
+shattered armguard
+sharing is caring
+shan hai sunrise
+shan hai scrolls shiro and kuro
+shan hai scrolls lightcharger
+shan hai scrolls elder dragon
+shan hai scrolls dowsie
+shadows grasp
+shadowmask hauntling
+shadowgem protector
+shadowflame
+shadow scrawl
+shadow isles hauntling
+shadow beat melisma
+shades of sky
+set sail
+serpent slayer
+seraphims staff
+sentinel vayne unbound
+sentinel runespirit
+sentinel hauntling
+sentinel flutterbug
+sentinel craggle
+sennas demonic retribution
+senna unbound
+self destruct
+seismic shard
+seedling runespirit
+second wind
+scuttle
+scuba shark umbra
+scritches
+scribble
+scratch
+scouts slingshot
+scorchclaw pup
+scarlet mage bun bun
+savings account
+santa poro
+sanguine gift
+sands of shurima
+sandbringer flutterbug
+sandbringer craggle
+sanctum of order arena
+sanctuary of the ancient
+salvage bin
+salmon doughcat
+sakura runespirit
+sakura featherknight
+rush of riches
+runic might ao shin
+runic compass
+runic arena
+runecarver
+rune surge
+ruined pengu
+ruined ao shin
+royal prancie
+rosebloom silverwing
+rosebloom paddlemar
+rosebloom nixie
+rosebloom bingo
+rolling for days
+rogue emblem
+rogue
+rod of ages
+rite of ruin
+risky moves
+rio
+rift arena
+rice doughcat
+reverberation
+retribution
+restart mission
+resplendent dango
+resolve
+replicator
+replication
+remover
+reinfourcement
+reigning protector
+regicide
+regal koi starmaw
+reforger
+reforged
+redolent red hamlet
+rednosed poro
+redeemer
+redeemed rio
+redeemed nimblefoot
+red siege minion
+red riding bun bun
+red hot dango
+red hare bun bun
+red buff
+crime city twitch
+abyssal dive
+arc of judgment
+feline friendship
+rectrix
+wingborne storm
+ixtals impact
+iron mantle
+recombobulator
+reckoner arena
+reapers toll
+blazing stampede
+realm of harmony arena
+bridge between
+wilding claw
+reality rift
+worlds 2013 thresh
+reality fracture
+reach for the stars
+ravenlord featherknight
+raptors
+ramen roundup
+raging ox
+ragewing prancie
+radiant warmogs armor
+radiant void staff
+radiant virtue
+radiant titans resolve
+radiant thiefs gloves
+radiant sunfire cape
+radiant strikers flail
+radiant steraks gage
+radiant steadfast heart
+radiant spirit visage
+radiant spear of shojin
+radiant red buff
+radiant rascal
+radiant rabadons deathcap
+radiant quicksilver
+radiant protectors vow
+radiant nashors tooth
+radiant morellonomicon
+radiant lucky item chest
+radiant last whisper
+radiant krakens fury
+radiant jeweled gauntlet
+radiant ionic spark
+radiant infinity edge
+radiant hextech gunblade
+radiant hand of justice
+radiant guinsoos rageblade
+radiant giant slayer
+radiant gargoyle stoneplate
+radiant evenshroud
+radiant equinox lightcharger
+radiant edge of night
+radiant dragons claw
+radiant deathblade
+radiant crownguard
+radiant bramble vest
+radiant blue buff
+radiant bloodthirster
+radiant archangels staff
+radiant adaptive helm
+race to worlds 2025
+quicksilver
+qiqi
+pyromancers cloak
+purrrrtal
+puppeteer
+pumped up ossia
+pulsefire qiqi
+pulsefire noctero
+pulsefire lightcharger
+pulsefire knife pup
+pulsefire fenroar
+pufflet
+pufferfin
+psionic emblem
+psionic
+prowling projectile
+protoplasm harness
+protectors vow
+project warwick unbound
+project vayne unbound
+project silver bolts
+project knife pup
+project elder dragon
+project edgefall
+project duckbill
+project chain vortex
+project burno
+project abyssia
+profane hydra
+prodigy qiqi
+prodigy ossia
+prodigy melisma
+prodigy baron
+prizefighter
+prismatic ticket
+prismatic stat voucher
+prismatic smite
+prismatic item
+primordian emblem
+primordian
+primal smite
+prestige valiant sword blade of the exile
+prestige star nemesis soul shackles
+prestige spirit blossom orb of deception
+prestige porcelain trueshot barrage
+prestige dragon fist rage
+prestige dawnbringer fate sealed
+prestige chibi valiant sword riven
+prestige chibi star nemesis morgana
+prestige chibi spirit blossom ahri
+prestige chibi porcelain ezreal
+prestige chibi dragonmancer yasuo
+prestige chibi dragon fist lee sin
+prestige chibi dawnbringer yone
+prestige chibi cafe cuties gwen
+prestige chibi blood moon miss fortune
+prestige chibi arcane superfan annie
+prestige cafe cuties snip snip
+prestige arcane superfan summon tibbers
+presence of mind
+precision
+precious panda choncc
+prancies retreat
+prancie
+praise the sun disc
+power chord ao shin
+powders monkey boom
+powder monkey
+portal of the first star
+portable forge
+pororanger hq
+poro yeet
+poro
+porcelain vanguards edge
+porcelain snek
+porcelain pufflet
+porcelain prancie
+porcelain melisma
+porcelain lightcharger
+porcelain gloop
+porcelain final spark
+porcelain dowsie
+porcelain dango
+porcelain bun bun
+porcelain bloom
+porcelain bellswayer
+poptail
+pop queen ossia
+pop queen melisma
+pop groove gloop
+pop blossom
+pool party scribble
+pool party pufflet
+poggles pools
+poggles cosplay pengu
+poggles
+plot armor
+pizza time gloop
+piximander
+pit stop arena
+piltover duckbill
+pilfer
+petricite tocker
+petricite khatsai
+petal dancer tocker
+perplexity
+perilously high training stage
+perfect execution
+pentakill umbra
+pentakill siege minion
+pentakill choncc
+pentakill backstage
+pentakill ao shin
+pengus party portal
+pengus 6th anniversary arena
+pengu with a parasol
+pengu pengu
+pengu on the terrace
+pengu lisa
+pengu garen unbound
+pengu featherknight
+pengu cosplay buster shot
+peak urf
+peachy gloop
+paws lightning
+patissier choncc
+patient study
+patience is a virtue
+path of lanterns
+path
+party animal
+partial ascension
+parallel convergence
+paper pursuit
+pantomime choncc
+pandoras items
+pajama party duckbill
+pajama guardian lumie
+paintinator v65
+paddle star
+overcharged superlaser
+outset
+ossia
+order umbra
+order pengu
+order molediver
+order fuwa
+orcus starmaw
+oracle
+one two three
+one two five
+one buff two buff
+on a roll
+old master whisker
+old god elder dragon
+odyssey yasuo arena
+odyssey malphite arena
+odyssey jinx arena
+odyssey baron
+ocean silverwing
+ocean hauntling
+ocean arena
+noxian sprite
+noxian handshake
+noxian battering ram
+nova emblem
+nova bomb
+nova
+noctero
+noble hamlet
+no scout no pivot
+nixie
+nimbus cloud
+nimblefoot
+nightbringer yasuo unbound
+nightbringer shork
+nightbringer nimblefoot
+nightbringer last breath
+nightbringer fenroar
+nightbringer dowsie
+night versus dawn
+new recruit
+neverghaasts descent
+neon stage
+neon bike slide
+nemesis nimblefoot
+neexie
+needlework
+nebulous hundun
+nebulae astrovix
+navori flickerblade
+mythmaker vanguards edge
+mythmaker paddle star
+mythmaker lightcharger
+mythmaker irelia unbound
+mushroom snek
+mushroom madness
+murder of raptors
+mountain silverwing
+mountain hauntling
+mountain arena
+most festive duckbill
+mosstomper seedling
+moontipped hushtail
+moonflair spellblade
+moo cow poro
+monsters attack
+money monsoon
+money hungry
+monarch hushtail
+molten furyhorn
+moguls mail
+mixmaster umbra
+mixmaster choncc
+mixmaster ao shin
+mittens
+mistberry hushtail
+missile party
+missed connections
+miss fortune make it rain
+misfits
+mischief maker duckbill
+mirage blade
+minmax
+mighty roar
+mermaid nixie
+melisma
+meeple emblem
+meeple
+mecha prime zero
+mecha chip
+mecha
+mech pilot shisa
+mech pilot burno
+may the fours be with you
+max volume
+maw of malmortius
+matcha cuppy
+matcha bobabear
+matcha blast
+masterwork upgrade
+mark
+marauder emblem
+marauder
+malignance
+malicious monetization
+makeshift armor
+majestic empress soul shackles
+magic duel arena
+maces will
+luxury subscription
+luxs fountain of rainbows
+luxs demacian daydream
+lunch money
+lunar scholar duckbill
+lunar revel shisa
+lunar revel furyhorn
+lunar revel docks
+lunar revel club square
+lunar revel choncc
+lunar revel bun bun
+lunar revel balcony
+lunar claw hauntling
+lunar city arena
+lunar beast shisa
+lunar beast furyhorn
+lunar beast choncc
+lumie
+ludens echo
+lucky rabbit melisma
+lucky noodle dowsie
+lucky lantern dango
+lucky item chest
+lucky gloves
+lucky fuwa
+lucky dice
+lucky astronyan
+lovestruck fuwa
+lovely guardian hushtail
+love love beam
+lotus prancie
+lotus dancer melisma
+lotus bun bun
+lost silverwing
+lone loaf knife pup
+localized borealis
+liu li prancie
+littlest shisa
+little shark umbra
+little demon woolibell
+little buddies
+lionheart furyhorn
+lion dancer poggles
+lion dancer dango
+lineup
+limeberry dango
+lily pad leap
+lightshield crest
+lightning rod
+lightning quick dango
+lightcharger
+light gun laser
+lifeguard umbra
+lifeguard choncc
+liandrys torment
+level up
+lesser champion duplicators
+leopard poptail
+lemondrop dango
+legionnaire tocker
+legionnaire flutterbug
+legionnaire craggle
+legion of threes
+legendary tank item
+legendary support item
+legendary marksman item
+legendary mage item
+legendary fighter item
+legendary assassin item
+legend haste
+le cafe de paris
+le bunny bonbon bistro
+latte link
+latent forge
+late game specialist
+late game scaling
+last wish fuwa
+lantern snek
+lantern prancie
+lantern lightcharger
+krakens fury
+kraken khatsai
+koi raptors
+koi prancie
+koi dowsie
+ko coliseum el tigre whisker
+ko coliseum
+knight fenroar
+knife pup
+knife hound
+kiwi doughcat
+kinkou nimblefoot
+kinkou jitte
+kingpin shork
+kiko
+kick start
+khatsai
+khaatsai
+kernel knife pup
+kda practice room
+kda popstars lightcharger
+kda popstars hushtail
+kda popstars furyhorn
+kda popstars featherknight
+kda in the convergence
+kda charm
+kda all out lightcharger
+kda all out hushtail
+kda all out furyhorn
+kda all out featherknight
+kda all out beat drop
+kda all in
+kda ahri unbound
+kayles boon
+kapi
+kanmei melisma
+kanmei knife pup
+kanmei hushtail
+kanmei fenroar
+kanmei featherknight
+kanmei burst
+kanmei arena
+kahunahuna
+kaenic rookern
+juice of vitality
+juice of power
+juice of haste
+judgement of durand
+journeys beginning
+jinxs explodyfunland
+jhins curtain call
+jhin unbound
+jeweled protector
+jeweled lotus
+jetback blepup
+jelly dowsie
+jannas fantastic forecast
+jaksho the protean
+jagged path
+jadebloom oasis
+jade snek
+jade prancie
+jade paddlemar
+jade dragon duckbill
+jade bingo
+jade baron
+jackpot chomper
+jack of all trades
+ixtali flutterbug
+item grab bag
+ironclad molediver
+iron assets
+iridescent dowsie
+irelias unfolding tales
+ionic spark
+invested
+invader zed
+into the lands beyond
+inspiration
+innovation arena
+innervating locket
+inkshadow lightcharger
+inkshadow dowsie
+inkshadow
+infinity protection
+infernal silverwing
+infernal hauntling
+infernal flock
+infernal arena
+indiscriminate killer
+impressions of water
+immortal path
+immortal journey lightcharger
+immortal journey dowsie
+ignite
+iceborn gauntlet
+icathian rain
+hydroblast
+hustler
+hundun
+hullcrusher
+hubris
+house of the golden rabbit
+hotpot
+hot rod lightcharger
+hot pot trot
+honeybuzz poggles
+honeybuzz piximander
+honeybuzz gloop
+honeybuzz duckbill
+honeybuzz choncc
+honeybuzz bingo
+honey hive hatch
+hollow radiance
+hold the line
+hissstory in the making
+highway to hell
+high voltage
+high noon thresh unbound
+high noon shork
+high noon shiro and kuro
+high noon senna unbound
+high noon scribble
+high noon saloon
+high noon lightcharger
+high noon fenroar
+high noon enchanted crystal arrow
+high noon death sentence
+hextech wipeout
+hextech qiqi
+hextech piximander
+hextech lightcharger
+hextech hypersurge
+hextech gunblade
+hextech gloop
+hextech fenroar
+hextech craggle
+hextech battle arena
+hexoptics c44
+hexgold umbra
+hexbolt companion
+heroic shisa
+heroic grab bag
+hemomancers helm
+hellfire hatchet
+hedge fund
+heavy is the crown
+heavens celestial court
+heavenly jade melisma
+heat death
+hearty soup gloop
+hearty blepup
+heartthrob cuppy
+heartsteel
+heartseeker hamlet
+heartache cuppy
+heart of the cards
+heart of steel
+healing orbs
+heal
+headliner chibi kda popstars kaisa
+haymaker
+hardhitter qiqi
+hardhitter melisma
+hard commit
+hamstringer
+hamlet
+ham doughcat
+hallowed mist
+gwens snip snip spire
+gwens graceful gateway
+gustwalker hatchling
+guqin crescendo
+gunmetal greaves
+gun goddess
+guitar smash
+group hug
+grotto of the secret spa
+groovy qiqi
+groovy lightcharger
+groovy grizzle
+grizzle
+grisly mementos
+goth woolibell
+goodest duckbill
+good for something
+goo starmaw
+golden tiger market
+golden koi
+golden item remover
+golden gamble
+golden fenroar
+golden dragon skyscraper
+golden custard gloop
+golden bakery
+gold stat anvil voucher
+going long
+gods eye
+godking noxian guillotine
+godking garen unbound
+godking fenroar
+godking demacian justice
+godking darius unbound
+god weapon
+god fist tempest
+god fist lee sin unbound
+gnarly burno
+gluttonous greaves
+glowing mote
+gloop
 glass cannon
-hand of baron
-heads up cupcake
-im a baby kitty where is mama
-laser heal
-prom queen
-protein shake
-quantum computing
-quest urfs champion
-stuck in here with me
-phenomenal evil
-poro blaster
-quest steel your heart
-red envelopes
-scopier weapons
-shrink engine
-stats on stats
-tank engine
-thread the needle
-transmute prismatic
-upgrade hubris
-vampirism
-all for you
-apex inventor
-tank it or leave it
-tormentor
-ultimate unstoppable
-upgrade immolate
-wind beneath blade
-compulsion for wealth
+glamorous paddlemar
+glacial runespirit
+glacial chip
+gingersnap dango
+gilded steel
+giant and mighty
+ghost doughcat
+ghost
+get wrenched
+get jinxed
+get caked
+gentle hoot noctero
+gathering storm
+gate of godking garen
+garen unbound
+gamblers blade
+galeborn inktales paddlemar
+galeborn inktales featherknight
+galeborn inktales ao shin
+galaxy slayer starmaw
+galaxy slayer razor shuriken
+galaxy slayer abyssia
+galaxy hunter
+galactic victory burno
+galactic destiny shisa
+gain gold
+fuwa
+furyhorn cosplay poro
+fulmination
+frying pan
+fruitytooty umbra
+fruitytooty poptail
+fruity tooty piximander
+fruity smoothie umbra
+frostguard arena
+frontline foundation
+froggo poggles
+freshwater molediver
+foxfire hushtail
+forward thinking
+fortune dowsie
+forgotten nimblefoot
+forgefire poro
+forged in strength
+forge a friend
+force of entropy
+focused fire
+flutterbug
+fluft of poros
+flowing tears
+flickerblades
+flexible
+flesheater
+flash
+flametongue poggles
+flametongue burno
+first strike
+first stars lament
+first star flurry
+fireworks tanzanite
+fireworks sapphire
+fireworks rose quartz
+fireworks rainbow
+fireworks obsidian
+fireworks mint
+fireworks citrine
+fireworks catseye
+firesale
+firelight scribble
+firelight rio
+firelight parallel convergence
+firelight hideout
+firecracker shisa
+firecracker rollout
+firecracker fuwa
+firecracker duckbill
+firecracker dango
+firecracker ao shin
+fireborn hauntling
+fireborn gloop
+fireborn choncc
+find your center
+fimbulwinter
+fiercest dango
+fierce rose dango
+fierce protector
+fiendhunter bolts
+fields of volrachnun
+fields of justice
+feudal future burno
+festive fire melisma
+festival arena
+fenroar
+fencing foilist pengu
+feeling lucky
+feed the flames
+fateweaver
+fated ashes
+fans of a feather
+faerie flight
+fae hushtail
+factory new
+fabulous fleur choncc
+extra spicy raptors
+extra spicy pufflet
+extra spicy nixie
+extra spicy featherknight
+extra spicy dowsie
+explosive growth
+experimental hexplate
+expedition
+expected unexpectedness
+exiles
+exhaust
+exclusive customization
+everything goes on
+everfrost prancie
+event horizon
+evenshroud
+evelynns instinct
+evelynns boon
+eternal hushtail
+esports pengu
+eradicator
+epoch
+epic rolldown
+enter the cyberspace
+enhanced lucky dice
+endless hunger
+enchanted archives
+empyrean promise
+emo umbra
+emo choncc
+emo ao shin
+ember inktales paddlemar
+ember inktales featherknight
+ember inktales ao shin
+elunk stampede
+elixir of skill
+elixir of force
+elixir of avarice
+eleisas miracle
+electrocharge
+electric qiqi
+eldritch eye
+elderwood silkee
+elder silverwing
+elder hauntling
+elder dragon
+elder ao shin
+el tigre whisker
+ekkos patience
+ekkos boon
+eclipse fuwa
+echoes of helia
+earth titan choncc
+earn your legacy
+early learnings
+dusk and dawn
+duo queue
+dummify
+duckbill
+drip drummer choncc
+drifting park arena
+dreams of earth
+dream maker
+dreadnova starmaw
+dreadnova arena
+dragons dive
+dragons claw
+dragonheart
+dragon trainer pengu
+dragon trainer buster shot
+dragon tempest
+dragon nursery
+dragon geyser
+dragon float splash
+dragon dancer ossia
+dragon charge
+draconic umbra
+draconic shork
+draconic arena
+dr shisa
+dowsie
+down to the last drop
+doughcat
+dorans helm
+dorans bow
+doomer
+domination
+dj gloop
+divine spring hundun
+divine serpent realm
+divine duelist
+divine ao shin
+divine amendment
+disco umbra
+disco drop
+disco dive
+disco choncc
+disco ao shin
+disabled
+diamondtipped spear
+diadem of songs
+detonation orb
+destination
+desert path
+demon kings crown
+demolition donut
+demacian sprite
+demacian silverwing
+delivery rush duckbill
+delicious bun bun
+default portal
+default boom
+default arena
+deep ward
+deep sea poggles
+decapitator
+deaths defiance
+deathfire touch
+dearest bingo
+deadlier caps
+deadlier blades
+daystar fuwa
+dawnstar hundun
+dawnstar furyhorn
+dawning shadow
+dawnglow silverwing
+dawncore
+dawnbringer shork
+dawnbringer fenroar
+dawn of progress
+darksteel talons
+darkspark inktales paddlemar
+darkspark inktales featherknight
+darkspark inktales ao shin
+darkin abyssia
+darkflight prancie
+darkflight baron
+dark star whisker
+dark star poptail
+dark star obliterate
+dark star mordekaiser unbound
+dark star lumie
+dark star grizzle
+dark star emblem
+dark star chip
+dark star ao shin
+dark star
+dark seal
+dark matter hauntling
+dark lady
+dark cosmic shiro and kuro
+dark cosmic jhin unbound
+dark cosmic curtain call
+dapper scuttle
+dankest dungeon
+dango bee
+dango
+cybernetic uplink
+cybernetic implants
+cyber city streets
+cyber city sprite
+cyber city heights
+cursed crown
+cuppy
+ctrl alt delete
+crystal rose snip snip
+crystal lightcharger
+crystal caress
+cryptbloom
+cry me a river
+cruelty
+crownguard
+crown of the shattered queen
+croissant poptail
+critical success
+crimson lucidity
+crimson cobalt
+crimson circle scribble
+crescendo
+crash test dummies
+crash site arena
+craggle
+crafted crafting
+coven shork
+coven fenroar
+coven dango
+coven bun bun
+court of chaos arena
+count spatula arena
+cosmic tracer
+cosmic starmaw
+cosmic scourge baron
+cosmic restart
+cosmic powder monkey
+cosmic khatsai
+cosmic abyssia
+cosmic abyss
+cosmeows beam
+corrupted shisa
+corrosion
+cooking master shisa
+cooking master burno
+cookies n scream cuppy
+contract killer
+continuous conjuration
+construct a companion
+conduit
+conditioning
+component heist
+component anvil
+completed item anvil
+commerce core
+commander
+comeback story
+colorful cannon
+coin rush
+cognitive tax
+cognitive overload
+coffee kapi
+code break
+cluttered mind
+clumsy molediver
+club 2 arena
+cloud silverwing
+cloud hauntling
+cloud catcher hushtail
+cloud arena
+clockwork accelerator
+cloak of starry night
+climb the ladder
+clear mind
+cleanse
+claw and order
+clarity
+chubby choco bun bun
+chosen of the wolf katarina unbound
+chosen of the wolf death lotus
+chonccs splash resort
+chonccs chill zone
+choncc the wise
+choncc
+chip
+chibi zoe
+chibi zed
+chibi yuumi
+chibi yuubee
+chibi yunara
+chibi yone
+chibi yasuo
+chibi xayah
+chibi vi
+chibi tristana
+chibi teemo
+chibi t1 yone
+chibi t1 orianna
+chibi syndra
+chibi surprise party amumu
+chibi star guardian syndra
+chibi star guardian lux
+chibi star guardian lulu
+chibi star guardian kaisa
+chibi star guardian jinx
+chibi star guardian akali
+chibi star guardian ahri
+chibi spirit blossom yunara
+chibi spirit blossom yone
+chibi spirit blossom sett
+chibi spirit blossom orianna
+chibi spirit blossom lillia
+chibi spirit blossom ahri
+chibi space groove blitzcrank
+chibi soul fighter gwen
+chibi soraka
+chibi sona
+chibi shork cosplay briar
+chibi sett
+chibi seraphine
+chibi riven
+chibi project zed
+chibi porcelain lux
+chibi porcelain irelia
+chibi pengu cosplay tristana
+chibi panda annie
+chibi orianna
+chibi neeko
+chibi mythmaker zoe
+chibi morgana
+chibi miss fortune
+chibi mecha malphite
+chibi malphite
+chibi majestic empress morgana
+chibi lux
+chibi lulu
+chibi little devil teemo
+chibi lillia
+chibi lee sin
+chibi kda superfan neeko
+chibi kda all out seraphine
+chibi kda all out akali
+chibi kayle
+chibi katarina
+chibi kaisa
+chibi jinx
+chibi janna
+chibi irelia
+chibi iblitzcrank
+chibi high noon ashe
+chibi heartsteel sett
+chibi gwen
+chibi guqin sona
+chibi galaxy slayer zed
+chibi forecast janna
+chibi firelight ekko
+chibi firecracker jinx
+chibi ezreal
+chibi ekko
+chibi drx aatrox
+chibi dragonmancer yasuo
+chibi dragonmancer lee sin
+chibi dragonmancer kaisa
+chibi dragonmancer ashe
+chibi dragon trainer tristana
+chibi divine sword irelia
+chibi dawnbringer riven
+chibi dark cosmic lux
+chibi crystal rose seraphine
+chibi crystal rose gwen
+chibi coven morgana
+chibi cosmic queen ashe
+chibi caitlyn
+chibi briar
+chibi blood moon aatrox
+chibi blitzcrank
+chibi bewitching yuumi
+chibi beemo
+chibi battle bunny miss fortune
+arcane caitlyn
+chibi battle bat xayah
+sahn uzal mordekaiser
+choo choo ornn
+seismic bastion
+divine god king darius
+fallen god king garen
+shattered earth
+chibi battle academia katarina
+soaring slam
+shyvana ironscale
+threads of vibration
+chibi battle academia ezreal
+chibi banana soraka
+h 28g evolution turret
+prestige project irelia
+crime city miss fortune
+crime city jinx
+judgment kayle
+chibi ashe
+chibi arcane vi
+chibi arcane caitlyn
+chibi arcade caitlyn
+chibi annie
+chibi amumu
+chibi akali
+chibi ahri
+chibi aether wing kayle
+chibi aatrox
+chemtech tocker
+chemtech surprise
+chemtech plaza
+chemtech piximander
+cheeper featherknight
+charge transfer
+chaos umbra
+chaos pengu
+chaos molediver
+chaos fuwa
+champion duplicators
+challenger emblem
+challenger
+chainlaced crushers
+certain death
+celestial star
+celestial arena
+celebration of tomorrow
+cease and desist
+cats versus dogs shiro and kuro
+catling gun
+catalyst of aeons
+cash back
+carve a path
+caretakers ally
+care package
+cappa juice
+call to chaos
+caldera paddlemar
+calculated loss
+calcite abyssia
+cafe cuties bun bun
+cactus pufflet
+byway of the banana
+buzz off
+burno the brilliant
+burno
+burn bright starlight
+buried treasures
+bunana bun bun
+bun bun bee
+bun bun
+bulwark
+build a bud
+bucket yeet
+bubblegum racer lightcharger
+bubblegum dango
+brush it off
+broom boom
+bronze for life
+bridge of progress
+brawler emblem
+brawler
+bravery voucher
+branching out
+brambleback runespirit
+brambleback chip
+boxing lessons
+bounty of worlds
+bounty hunter fenroar
+bootcamp boom
+booster pack
+boon of the scrapper
+boon of resurrection
+bonk
+bodyguard training
+bobabear
+boba blast
+bluebeary bobabear
+blue siege minion
+blue hair rio
+blubble
+blooming hundun
+bloodsong
+bloodletters curse
+blood price
+blood offering
+blood moon umbra
+blood moon night parade
+blood moon bellswayer
+blepup
+blazing star furyhorn
+blazebattle molediver
+blackfire torch
+blackcliff gorge
+black rose oubliette
+black mist umbra
+black mist tocker
+black mist runespirit
+black mist lightcharger
+black mist craggle
+black mist bellswayer
+black hole arena
+black hole
+bite size shork
+birthday reunion
+birthday present
+birthday fuwa
+birthday flutterbug
+birthday cakespirit
+birthday buddy cuppy
+biosphere central
+bingo
+bilgewater bay
+big grab bag
+bewitching prowling projectile
+best friends
+belt overflow
+bellswayer
+beevil flutterbug
+bees astrovix
+bee silkee
+bee poro
+bee blubble
+beatmaker qiqi
+beatmaker ossia
+beatmaker melisma
+beat drop
+battlecast knife pup
+battle dog knife pup
+battle cat duckbill
+battle bunny make it rain
+battle bunny bun bun
+battle boss bypass
+battle academia ultimate showdown
+battle academia sprite
+battle academia duckbill
+battle academia death lotus
+bastionbreaker
+bastion emblem
+bastion
+bass queen qiqi
+barrier
+barons lair
+baron
+bandlepipes
+bandle blast
+band of thieves
+banana starcall
+bamboo shoots
+backup bows
+backline blueprint
+ba dum tss
+azure inktales paddlemar
+azure inktales featherknight
+azure inktales ao shin
+axiom arcanist
+axiom arc
+awakened ao shin
+avarosa arena
+aurora peak
+aurelion sols boon
+aura farming
+augmented power
+atlantean choncc
+at what cost
+astrovix
+astronyan
+astronaut sprite
+astronaut molediver
+astral vortex
+astral flight
+astral bingo
+ascension
+artiste choncc
+artifact anvil
+arrowhead arena
+armored advance
+arcane warwick unbound
+arcane viktory
+arcane super mega death rocket
+arcane rio
+arcane jinx unbound
+arcane infinite duress
+arcane cease and desist
+arcane ace in the hole
+arcana kiko
+arcana dango
+arcana coil
+arcana bun bun
+arcade scribble
+arcade qiqi
+arcade lightcharger
+arcade gloop
+arc of ruin
+arbiter emblem
+arbiter
+apotheotic forge
+ao shins summit spa
+ao shin
+anvil voucher
+anomaly sprite
+anniversary pengu
+anima emblem
+anima commander
+anima
+an exalted adventure
+all seeing hundun
+akana melisma
+akana knife hound
+akana hushtail
+akana featherknight
+akana arena
+ahris boon
+ahris aura
+aftershock
+afterburner fenroar
+afk
+aegis of dusk
+aegis of dawn
+advanced loan
+adaptive helm
+actualizer
+abyssia
+abyssal chasm
+absorb life
+a purrfect plan
+a magic roll
+poltergeist
+404 augment not found
+abillity haste shard
+abillity power shard
+abstain from risk
 abstain from wealth
+accelerating sorcery
+adamant
+adapt
+legend alacrity
+aim for the head
+legend bloodline
+all for you
+ancestral woods
+ancient krug
+and my axe
+apex inventor
+aram
+aram mayhem
+river sprite
+ufo sprite
+star guardian sprite
+jade emperor sprite
+dumpling sprite
+chaos sprite
+order sprite
+arcane sprite
+plant buddy sprite
+egg sprite
+sauna sprite
+super squad sprite
+super evil sprite
+potion sprite
+explorer sprite
+scuba sprite
+superfan sprite
+boba sprite
+ink sprite
+serenity sprite
+mega fan sprite
+chemtank sprite
+isprite
+cauldron sprite
+apprentice sprite
+archmage
+arena
+armor penetration shard
+armor shard
+attack damage shard
+attack speed shard
+augment 405
+augmented power
+back to basics
+banner of command
+baron nashor
+big brain
+blade waltz
+blast cone
+blood brother
+blue sentinel
+blunt force
+bodyguard
+bounce of the poro king
+bravest of the brave
+bread and butter
+bread and cheese
+bread and jam
+bread sandwich
+buff buddies
+calculated risk
+cannon fodder
+cant touch this
+castle
+celestial body
+center of the universe
+cerberus
+chaaaaaaaarge
+chain lightning
+chauffeur
+cheating
+chemtech drake
+circle of death
+clothesline
+cloud drake
+clown college
+combo master
+compulsion for power
+compulsion for risk
+compulsion for wealth
+contract killer
+courage of the colossus
+crack open that egg
 craving for power
 craving for risk
 craving for wealth
-center of the universe
-doomsayer
-dreadbringer
-gamba anvil
-bread sandwich
-orbital laser
-raid boss
-spellwake
-spirit link
-wisdom of ages
-accelerating sorcery
-chain lightning
-laser eyes
-quest rite of the forge god
-magical girl
-righteous fury
-summoners roulette
-ultimate roulette
-chauffeur
-prismatic egg
-augment 405
-hive mind
-deathtouch
-dark blessing
-summoner revolution
-symbiotic mutation
-willing sacrifice
-defensive maneuvers
-extendoarm
-hat trick
-light warden
-quest three sacred treasures
-undying guard
-vengeance
-well be right back
-and my axe
-blood brother
-die another day
-oathsworn
-quest angel of retribution
-quest mad hatter
-restart
-trickster demon
-unshackled
-vanish
-sacrifice for gold
-multitool
-augmented power
-contract killer
-desecrator
-grevious venom
-serve beyond death
-dont chase
-juice box
-numb to pain
-panic room
-fire sale
-frozen foundations
-hold very still
-now you see me
-warmup routine
-404 augment not found
-shardholder value shard
-lethality shard
-health shard
-move speed shard
-tenacity shard
-armor penetration shard
-omnivamp shard
+crimson raptor
+crit n cast
 critical damage shard
-fortune shard
-abillity power shard
-health and size shard
-magic penetration shard
-heal and shield power shard
-desert oasis
-ancestral woods
-frostbite thicket
-koi pond
-magma chamber
-reckoner arena
-power flower
-attack damage shard
-two random shards
-might shard
-attack speed shard
+critical healing
+critical missile
+critical rhythm
 critical shard
-magic resist shard
-unbreakable shard
-abillity haste shard
-swiftness shard
-armor shard
-parasitic mutation
-calculated risk
-castle
-clothesline
+cruelty
+dark blessing
+dashing
+dawnbringers resolve
+deathtouch
+defensive maneuvers
+deft
 dematerialize
+demons dance
+desecrator
+desert oasis
 despoil
-fallen aegis
-fruits of your labor
-silver spoon
-slime time
-trailblazer
-bravest of the brave
-cannon fodder
+devil on your shoulder
+die another day
+dive bomb set
+dive bomber
+divine intervention
+donation
+dont blink
+dont chase
+doomsayer
+double tap
+draw your sword
+dreadbringer
+dropkick
+droppybara
+dual wield
+earthwake
+elder dragon
+empowered by the faithful
+empyrean promise
 energetic
-aim for the head
-banner of command
-hybrid
-bodyguard
-combo master
-nesting doll
-parasitic relationship
-mighty shield
-poltergeist
-purist caster
-reenergize
-repulsor
-spin to win
-veil of warding
-sacrifice for silver
-compulsion for power
-compulsion for risk
+erosion
+escapade
+escape plan
+ethereal weapon
+eureka
+executioner
+extendoarm
+fallen aegis
+fan the hammer
+feel the burn
+fey magic
+final city transit
+final form
+fire sale
+firebrand
+firecracker set
+firefox
+firstaid kit
+flashbang
+flashy
+fortune shard
+from beginning to end
+frost wraith
+frostbite thicket
+frozen foundations
+fruits of your labor
+fully automated
 gain a prismatic stat anvil
 gain an augment slot
 gain stat anvil
-level augments
-replace augment
-abstain from risk
-crack open that egg
-crit n cast
-dont blink
-flashbang
-juiced
-escapade
-escape plan
-firstaid kit
-frost wraith
+gamba anvil
+gash
+glass cannon
+goldrend
+goliath
+goredrink
+grandmas chili oil
+greater murk wolf
+grevious venom
+gromp
+growth spurt
 guilty pleasure
+hand of baron
+hat on a hat
+hat trick
+heads up cupcake
+heal and shield power shard
+health and size shard
+health shard
+heavy hitter
+hextech drake
+hextech soul
+high roller
+hive mind
+hold very still
+holy fire
+holy snowball
+homeguard
+honeyfruit
+hybrid
+ice cold
+im a baby kitty where is mama
+impassable
+infernal conduit
+infernal drake
+infernal soul
+infinite recursion
+its critical
+its killing time
+juice box
+juiced
+keystone conjurer
+kill secured
+king me
+koeshins crossing
+koi pond
+krug
+laser eyes
+laser heal
 leg day
+lethality shard
+level augments
+light em up
+light warden
+lightning strikes
+mad scientist
+magic missile
+magic penetration shard
+magic resist shard
+magical girl
+magma chamber
+marksmage
+master of duality
+might shard
+mighty shield
+mind to matter
+mini krug
+minionmancer
+mountain drake
+mountain soul
+move speed shard
+multitool
+murk wolf
+mutated blast cone
+mutated honeyfruit
+mutated scryers bloom
+mystic punch
+nesting doll
+nightstalking
+now you see me
+numb to pain
+oathsworn
+ocean drake
 ocean soul
+ok boomerang
+ominous pact
+omni soul
+omnivamp shard
+orbital laser
+outlaws grit
+overflow
+pandoras box
+panic room
+parasitic mutation
+parasitic relationship
+phenomenal evil
+pinball
+poltergeist
+poro blaster
+power flower
+practice tool
+prismatic egg
+prom queen
+protein shake
+purist caster
+quantum computing
+quest angel of retribution
+quest icathias fall
+quest mad hatter
+quest rite of the forge god
+quest steel your heart
+quest three sacred treasures
+quest urfs champion
+quest wooglets witchcap
+rabble rousing
+raid boss
+raptor
+reckoner arena
+recursion
+red brambleback
+red envelopes
+reenergize
+replace augment
+repulsor
+restart
+restless restoration
+rift herald
+rift scuttler
+righteous fury
+sacrifice for gold
+sacrifice for silver
+scoped weapons
+scopier weapons
+scopiest weapons
+scryers bloom
+searing dawn
 self destruct
+serve beyond death
 shadow runner
+shardholder value shard
+shrink engine
+shrink ray
+silver spoon
+skilled sniper
+slap around
+slime time
+slow and steady
+slow cooker
+snowball roulette
+snowball upgrade
+snowday
+sonata
+sonic boom
+speed demon
+spellwake
+spin to win
+spirit link
+spiritual purification
+stackosaurus rex
+stats
+stats on stats
+stats on stats on stats
+stuck in here with me
+summoner revolution
+summoners roulette
 swift and safe
+swiftness shard
+symbiotic mutation
+symphony of war
+tank engine
+tank it or leave it
+tap dancer
+teamfight tactics
+tenacity shard
 the brutalizer
+thread the needle
+tockers trials
+tormentor
+trailblazer
+transmute chaos
+transmute gold
+transmute prismatic
+trickster demon
+triggered inferno
+trueshot prodigy
+tutorial
+twice thrice
+twin fire
+two random shards
+typhoon
+ultimate awakening
+ultimate revolution
+ultimate roulette
+ultimate unstoppable
+unbreakable shard
+undying guard
+unshackled
+upgrade collector
+upgrade hubris
+upgrade immolate
+upgrade infinity edge
+upgrade mikaels blessing
+upgrade sheen
+upgrade sword of blossoming dawn
 upgrade thornmail
 upgrade zhonyas
-adamant
-hextech soul
-homeguard
-kill secured
-mountain soul
-sonic boom
-deft
-goredrink
-dive bomber
-erosion
-slap around
-transmute gold
-typhoon
-weighted popoffs
-witchful thinking
-firefox
-upgrade collector
-zealot
-blunt force
-buff buddies
-hat on a hat
-heavy hitter
-ice cold
-infernal soul
-light em up
-mind to matter
-scoped weapons
-speed demon
-stats
-twin fire
-bread and jam
-dawnbringers resolve
-holy fire
-restless restoration
-shrink ray
-slow and steady
-upgrade sheen
-with haste
-flashy
-minionmancer
-searing dawn
-adapt
-ethereal weapon
-triggered inferno
-growth spurt
-big brain
-bread and butter
-cheating
-demons dance
-divine intervention
-final city transit
-impassable
-its critical
-nightstalking
-ok boomerang
-outlaws grit
-pinball
-snowball roulette
-sonata
-bread and cheese
-critical healing
-donation
-rabble rousing
-recursion
-skilled sniper
-snowball upgrade
-spiritual purification
-twice thrice
-upgrade infinity edge
+vampirism
+vanguard
+vanish
+veil of warding
+vengeance
+voidgrub
+voidmite
 vulnerability
-double tap
-firebrand
-keystone conjurer
-marksmage
-overflow
-trueshot prodigy
-upgrade sword of blossoming dawn
-celestial body
-critical missile
-critical rhythm
-executioner
-from beginning to end
-grandmas chili oil
-its killing time
-lightning strikes
-magic missile
-holy snowball
-quest icathias fall
-gash
-slow cooker
-stats on stats on stats
-symphony of war
-back to basics
-cerberus
-circle of death
-courage of the colossus
-dashing
-goliath
-infernal conduit
-tap dancer
-clown college
-dropkick
-dual wield
-fan the hammer
-quest wooglets witchcap
-scopiest weapons
-transmute chaos
-chaaaaaaaarge
-feel the burn
-cruelty
-draw your sword
-final form
-infinite recursion
-mystic punch
-pandoras box
-tockers trials
-tutorial
-practice tool
-fully automated
-dive bomb set
+warmup routine
 wee woo wee woo
-archmage
-snowday
-high roller
-chemtech drake
+weighted popoffs
+well be right back
+willing sacrifice
+wind beneath blade
+windspeakers blessing
+wisdom of ages
+witchful thinking
+with haste
+zealot

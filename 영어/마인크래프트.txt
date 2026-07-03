@@ -1,3 +1,7 @@
+smite
+lightning rod
+conduit
+barrier
 apple
 bell
 fox
