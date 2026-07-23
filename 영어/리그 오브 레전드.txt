@@ -224,14 +224,12 @@ upward mobility
 upgraded zhonyas hourglass
 upgraded wooglets witchcap
 upgraded trinity force
-upgraded thornmail
 upgraded sword of blossoming dawn
 upgraded sunfire aegis
 upgraded sheen
 upgraded seekers armguard
 upgraded infinity edge
 upgraded iceborn gauntlet
-upgraded bramble vest
 upgraded bamis cinder
 untamed hushtail
 unidentified flying friends
@@ -2006,7 +2004,6 @@ cerberus
 chaaaaaaaarge
 chain lightning
 chauffeur
-cheating
 chemtech drake
 circle of death
 clothesline
@@ -2018,7 +2015,6 @@ compulsion for risk
 compulsion for wealth
 contract killer
 courage of the colossus
-crack open that egg
 craving for power
 craving for risk
 craving for wealth
@@ -2043,7 +2039,6 @@ desert oasis
 despoil
 devil on your shoulder
 die another day
-dive bomb set
 dive bomber
 divine intervention
 donation
@@ -2076,7 +2071,6 @@ final city transit
 final form
 fire sale
 firebrand
-firecracker set
 firefox
 firstaid kit
 flashbang
@@ -2087,12 +2081,10 @@ frost wraith
 frostbite thicket
 frozen foundations
 fruits of your labor
-fully automated
 gain a prismatic stat anvil
 gain an augment slot
 gain stat anvil
 gamba anvil
-gash
 glass cannon
 goldrend
 goliath
@@ -2104,7 +2096,6 @@ gromp
 growth spurt
 guilty pleasure
 hand of baron
-hat on a hat
 hat trick
 heads up cupcake
 heal and shield power shard
@@ -2139,7 +2130,6 @@ koeshins crossing
 koi pond
 krug
 laser eyes
-laser heal
 leg day
 lethality shard
 level augments
@@ -2189,7 +2179,6 @@ parasitic relationship
 phenomenal evil
 pinball
 poltergeist
-poro blaster
 power flower
 practice tool
 prismatic egg
@@ -2198,7 +2187,8 @@ protein shake
 purist caster
 quantum computing
 quest angel of retribution
-quest icathias fall
+icathias fall
+victorious fiora
 quest mad hatter
 quest rite of the forge god
 quest steel your heart
@@ -2211,7 +2201,6 @@ raptor
 reckoner arena
 recursion
 red brambleback
-red envelopes
 reenergize
 replace augment
 repulsor
@@ -2220,8 +2209,6 @@ restless restoration
 rift herald
 rift scuttler
 righteous fury
-sacrifice for gold
-sacrifice for silver
 scoped weapons
 scopier weapons
 scopiest weapons
@@ -2239,12 +2226,10 @@ slap around
 slime time
 slow and steady
 slow cooker
-snowball roulette
 snowball upgrade
 snowday
 sonata
 sonic boom
-speed demon
 spellwake
 spin to win
 spirit link
@@ -2289,13 +2274,10 @@ unbreakable shard
 undying guard
 unshackled
 upgrade collector
-upgrade hubris
 upgrade immolate
 upgrade infinity edge
-upgrade mikaels blessing
 upgrade sheen
 upgrade sword of blossoming dawn
-upgrade thornmail
 upgrade zhonyas
 vampirism
 vanguard
@@ -2307,10 +2289,8 @@ voidmite
 vulnerability
 warmup routine
 wee woo wee woo
-weighted popoffs
 well be right back
 willing sacrifice
-wind beneath blade
 windspeakers blessing
 wisdom of ages
 witchful thinking

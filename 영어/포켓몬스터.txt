@@ -10,6 +10,7 @@ commander
 barrier
 pikachu
 synthesis
+make it rain
 rain dance
 apple
 trip
