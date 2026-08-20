@@ -70,7 +70,6 @@ evolve supercharge
 evolve void seeker
 evolve icathian rain
 supercharge
-jayce brightammer
 angler jax
 ssg jarvan iv
 dragonslayer jarvan iv
@@ -616,7 +615,6 @@ resplendent dango
 resolve
 replicator
 replication
-remover
 reinfourcement
 reigning protector
 regicide
