@@ -1,3 +1,8 @@
+precipitation
+platinum
+hydrometeor
+electron
+anti
 replication
 precision
 corrosion

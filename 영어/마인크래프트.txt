@@ -1,3 +1,5 @@
+guardian
+dandelion
 smite
 lightning rod
 conduit
